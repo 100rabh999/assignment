@@ -1,0 +1,339 @@
+.iphone14270Child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff5fa;
+  width: 390px;
+  height: 434px;
+}
+.one {
+  color: var(--color-tomato-100);
+}
+.chooseTheOneContainer {
+  position: absolute;
+  top: 490px;
+  left: 69px;
+  font-size: 28px;
+  display: inline-block;
+  width: 250px;
+  color: var(--color-gray);
+}
+.theGeneratedLorem {
+  position: absolute;
+  top: 546px;
+  left: 46px;
+  font-size: var(--font-size-mini);
+  color: var(--color-dimgray);
+  display: inline-block;
+  width: 298px;
+}
+.iphone14270Inner,
+.iphone14270Item {
+  position: absolute;
+  border-radius: var(--br-81xl);
+  box-shadow: 0 8px 8px rgba(147, 147, 147, 0.12);
+}
+.iphone14270Item {
+  top: 646px;
+  left: 25px;
+  background: linear-gradient(89.66deg, #ff6757, #c88fef);
+  width: 342px;
+  height: 66px;
+}
+.iphone14270Inner {
+  cursor: pointer;
+  text-decoration: none;
+  top: 652px;
+  left: 32px;
+  background-color: var(--color-white);
+  width: 54px;
+  height: 54px;
+}
+.firstSwipe {
+  position: absolute;
+  top: 664px;
+  left: 102px;
+  font-weight: 500;
+  text-align: left;
+  display: inline-block;
+  width: 168px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  height: 1.93%;
+  width: 2.28%;
+  top: 79.5%;
+  right: 11.82%;
+  bottom: 18.57%;
+  left: 85.9%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  right: 14.39%;
+  left: 83.33%;
+}
+.iphone14270Child1,
+.rectangleDiv {
+  position: absolute;
+  border-radius: var(--br-81xl);
+  box-shadow: 0 8px 8px rgba(147, 147, 147, 0.12);
+}
+.rectangleDiv {
+  top: 730px;
+  left: 24px;
+  background: linear-gradient(89.66deg, #ff6757, #c88fef);
+  width: 342px;
+  height: 66px;
+}
+.iphone14270Child1 {
+  top: 736px;
+  left: 31px;
+  background-color: var(--color-white);
+  width: 54px;
+  height: 54px;
+}
+.secondSwipe {
+  position: absolute;
+  top: 748px;
+  left: 101px;
+  font-weight: 500;
+  text-align: left;
+  display: inline-block;
+  width: 168px;
+}
+.groupIcon,
+.iphone14270Child2,
+.vectorIcon2,
+.vectorIcon3 {
+  position: absolute;
+  height: 1.93%;
+  width: 2.28%;
+  top: 89.45%;
+  right: 12.08%;
+  bottom: 8.61%;
+  left: 85.64%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon,
+.iphone14270Child2,
+.vectorIcon3 {
+  right: 14.64%;
+  left: 83.08%;
+}
+.groupIcon,
+.iphone14270Child2 {
+  height: 3.32%;
+  width: 7.32%;
+  top: 80.15%;
+  right: 82.68%;
+  bottom: 16.53%;
+  left: 10%;
+}
+.iphone14270Child2 {
+  height: 3.08%;
+  width: 12.23%;
+  top: 71.35%;
+  right: 80.09%;
+  bottom: 25.57%;
+  left: 7.67%;
+  cursor: pointer;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 176px;
+  left: 17px;
+  border-radius: 50%;
+  background-color: var(--color-tomato-200);
+  width: 103px;
+  height: 104px;
+}
+.ag98Z32e220319RemovebgPrevIcon {
+  position: absolute;
+  top: 204px;
+  left: 32px;
+  width: 71px;
+  height: 48px;
+  object-fit: cover;
+}
+.iphone14270Child3 {
+  position: absolute;
+  top: -42px;
+  left: 155px;
+  border-radius: 50%;
+  background-color: rgba(200, 143, 239, 0.13);
+  width: 136px;
+  height: 137px;
+}
+.ag98Z32e220319RemovebgPrevIcon1 {
+  position: absolute;
+  top: 0;
+  left: 176px;
+  width: 94px;
+  height: 62px;
+  object-fit: cover;
+}
+.iphone14270Child4 {
+  position: absolute;
+  top: -8px;
+  left: 299px;
+  border-radius: 50%;
+  background-color: var(--color-tomato-200);
+  width: 173px;
+  height: 172px;
+}
+.removebgPreview1Icon {
+  position: absolute;
+  top: 18px;
+  left: 321px;
+  width: 131px;
+  height: 119px;
+  object-fit: cover;
+}
+.iphone14270Child5 {
+  position: absolute;
+  top: 273px;
+  left: 94px;
+  border-radius: 50%;
+  background-color: var(--color-lavenderblush-100);
+  width: 139px;
+  height: 139px;
+}
+.removebgPreview2Icon {
+  position: absolute;
+  top: 295px;
+  left: 111px;
+  width: 105px;
+  height: 96px;
+  object-fit: cover;
+}
+.iphone14270Child6 {
+  position: absolute;
+  height: 15.91%;
+  width: 37.62%;
+  top: 13.51%;
+  right: 31.27%;
+  bottom: 70.57%;
+  left: 31.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.valentineSDayCoupleCollectIcon {
+  position: absolute;
+  top: 139px;
+  left: 151px;
+  border-radius: var(--br-xl);
+  width: 85px;
+  height: 71px;
+  object-fit: cover;
+}
+.flatValentineSDayCoupleCoIcon {
+  position: absolute;
+  top: 231px;
+  left: 288px;
+  width: 119px;
+  height: 102px;
+  object-fit: cover;
+}
+.iphone14270Child7,
+.iphone14270Child8,
+.iphone14270Child9 {
+  position: absolute;
+  height: 1.6%;
+  width: 3.79%;
+  top: 28.32%;
+  right: 9.28%;
+  bottom: 70.08%;
+  left: 86.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iphone14270Child8,
+.iphone14270Child9 {
+  height: 1.34%;
+  width: 5.19%;
+  top: 16.94%;
+  right: 46.86%;
+  bottom: 81.72%;
+  left: 47.95%;
+}
+.iphone14270Child9 {
+  height: 12.62%;
+  width: 29.2%;
+  top: 34.77%;
+  right: 70.8%;
+  bottom: 52.6%;
+  left: 0;
+}
+.valentineSDayCoupleCollectIcon1 {
+  position: absolute;
+  top: 313px;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 67px;
+  height: 58px;
+  object-fit: cover;
+}
+.groupIcon1,
+.iphone14270Child10 {
+  position: absolute;
+  height: 0.96%;
+  width: 3.74%;
+  top: 37.57%;
+  right: 93.12%;
+  bottom: 61.46%;
+  left: 3.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon1 {
+  height: 1.07%;
+  width: 2.42%;
+  top: 32.46%;
+  right: 10.4%;
+  bottom: 66.47%;
+  left: 87.18%;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 23px;
+  border-radius: 50%;
+  background-color: var(--color-lavenderblush-100);
+  width: 222px;
+  height: 223px;
+}
+.n929Uyqt220322RemovebgPrevIcon {
+  position: absolute;
+  top: 79px;
+  left: 107px;
+  width: 229px;
+  height: 102px;
+  object-fit: cover;
+}
+.ellipseParent {
+  position: absolute;
+  top: -62px;
+  left: -107px;
+  width: 245px;
+  height: 223px;
+}
+.iphone14270 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

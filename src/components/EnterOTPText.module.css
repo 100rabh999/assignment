@@ -1,0 +1,7 @@
+.enterOtp {
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-gray);
+  text-align: left;
+}
